@@ -1,4 +1,4 @@
-﻿namespace TodoMVC.Tests;
+﻿namespace TestProject.Tests;
 
 public class Tests
 {

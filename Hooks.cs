@@ -1,9 +1,10 @@
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
-using TechTalk.SpecFlow;
-using BoDi; 
+using Reqnroll;
+using Reqnroll.BoDi;
+using Reqnroll.NUnit;
 
-namespace TodoMVC.Tests
+namespace TestProject.Tests
 {
     [Binding]
     public sealed class Hooks
